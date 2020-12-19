@@ -1,0 +1,31 @@
+team_name,starting_budget,starting_gdp,starting_gini,key_short_name,cost,remaining_budget,new_gdp,new_gini,game_round,previous_policies,policy2,cost2,type,value,description,gamble,stake,win
+Team 1,2.50E+09,100,0.3,1 Tax rate,1.00E+08,2.40E+09,100,0.294,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Team 2,2.50E+09,100,0.3,1 Tax rate,1.00E+08,2.40E+09,100,0.294,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Team 3,2.50E+09,100,0.3,1 Tax rate,1.00E+08,2.40E+09,100,0.294,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Team 4,2.50E+09,100,0.3,1 Tax rate,1.00E+08,2.40E+09,100,0.294,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Team 5,2.50E+09,100,0.3,1 Tax rate,1.00E+08,2.40E+09,100,0.294,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mr Monty Carlo,2.50E+09,100,0.3,21 Consumption tax,2.50E+08,2.25E+09,104,0.312,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Team 1,2.16E+09,100,0.294,2 UBI,1.50E+09,6.60E+08,96,0.2793,2,1,NA,NA,Austerity,10,Austerity has led to your budget being reduced by 10%,FALSE,NA,NA
+Team 2,2.16E+09,100,0.294,2 UBI,1.50E+09,6.60E+08,96,0.2793,2,1,NA,NA,Austerity,10,Austerity has led to your budget being reduced by 10%,FALSE,NA,NA
+Team 3,2.16E+09,100,0.294,2 UBI,1.50E+09,6.60E+08,96,0.2793,2,1,NA,NA,Austerity,10,Austerity has led to your budget being reduced by 10%,FALSE,NA,NA
+Team 4,2.16E+09,100,0.294,2 UBI,1.50E+09,6.60E+08,96,0.2793,2,1,NA,NA,Austerity,10,Austerity has led to your budget being reduced by 10%,FALSE,NA,NA
+Team 5,2.16E+09,100,0.294,2 UBI,1.50E+09,6.60E+08,96,0.2793,2,1,NA,NA,Austerity,10,Austerity has led to your budget being reduced by 10%,FALSE,NA,NA
+Mr Monty Carlo,2.03E+09,104,0.312,25 Social capital,5.00E+07,1.98E+09,109.2,0.3214,2,21,NA,NA,Austerity,10,Austerity has led to your budget being reduced by 10%,TRUE,2.50E+08,TRUE
+Team 1,6.60E+08,96,0.2793,3 Min. wage,2.50E+08,4.10E+08,93.12,0.2597,3,"1, 2",NA,NA,Refugee Crisis,0,A refugee crisis has not led to your gini coefficient resetting to 0.3,NA,NA,NA
+Team 2,6.60E+08,96,0.2793,3 Min. wage,2.50E+08,4.10E+08,93.12,0.2597,3,"1, 2",NA,NA,Refugee Crisis,0,A refugee crisis has not led to your gini coefficient resetting to 0.3,NA,NA,NA
+Team 3,6.60E+08,96,0.2793,3 Min. wage,2.50E+08,4.10E+08,93.12,0.2597,3,"1, 2",NA,NA,Refugee Crisis,0,A refugee crisis has not led to your gini coefficient resetting to 0.3,NA,NA,NA
+Team 4,6.60E+08,96,0.2793,3 Min. wage,2.50E+08,4.10E+08,93.12,0.2597,3,"1, 2",NA,NA,Refugee Crisis,0,A refugee crisis has not led to your gini coefficient resetting to 0.3,NA,NA,NA
+Team 5,6.60E+08,96,0.2793,3 Min. wage,2.50E+08,4.10E+08,93.12,0.2597,3,"1, 2",NA,NA,Refugee Crisis,0,A refugee crisis has not led to your gini coefficient resetting to 0.3,NA,NA,NA
+Mr Monty Carlo,2.23E+09,109.2,0.3214,10 Renovation,6.00E+08,1.63E+09,112.476,0.331,3,"21, 25",NA,NA,Refugee Crisis,0,A refugee crisis has not led to your gini coefficient resetting to 0.3,NA,NA,NA
+Team 1,4.10E+08,87.5328,0.2597,4 Ice cream,4.00E+08,1.00E+07,83.1562,0.2415,4,"1, 2, 3",NA,NA,Recession,6,A recessions has led to a reduction in GDP of 6%,NA,NA,NA
+Team 2,4.10E+08,87.5328,0.2597,4 Ice cream,4.00E+08,1.00E+07,83.1562,0.2415,4,"1, 2, 3",NA,NA,Recession,6,A recessions has led to a reduction in GDP of 6%,NA,NA,NA
+Team 3,4.10E+08,87.5328,0.2597,4 Ice cream,4.00E+08,1.00E+07,83.1562,0.2415,4,"1, 2, 3",NA,NA,Recession,6,A recessions has led to a reduction in GDP of 6%,NA,NA,NA
+Team 4,4.10E+08,87.5328,0.2597,4 Ice cream,4.00E+08,1.00E+07,83.1562,0.2415,4,"1, 2, 3",NA,NA,Recession,6,A recessions has led to a reduction in GDP of 6%,NA,NA,NA
+Team 5,4.10E+08,87.5328,0.2597,4 Ice cream,4.00E+08,1.00E+07,83.1562,0.2415,4,"1, 2, 3",NA,NA,Recession,6,A recessions has led to a reduction in GDP of 6%,NA,NA,NA
+Mr Monty Carlo,1.63E+09,105.7274,0.331,7 Scholarship,1.00E+09,6.25E+08,108.8992,0.3376,4,"21, 25, 10",NA,NA,Recession,6,A recessions has led to a reduction in GDP of 6%,NA,NA,NA
+Team 1,1.00E+07,83.1562,0.2415,5 Part-time,1.50E+08,-2.40E+08,78.1668,0.227,5,"1, 2, 3, 4",6 Bonus,1.00E+08,NA,NA,NA,NA,NA,NA
+Team 2,1.00E+07,83.1562,0.2415,5 Part-time,1.50E+08,-2.40E+08,78.1668,0.227,5,"1, 2, 3, 4",6 Bonus,1.00E+08,NA,NA,NA,NA,NA,NA
+Team 3,1.00E+07,83.1562,0.2415,5 Part-time,1.50E+08,-2.40E+08,78.1668,0.227,5,"1, 2, 3, 4",6 Bonus,1.00E+08,NA,NA,NA,NA,NA,NA
+Team 4,1.00E+07,83.1562,0.2415,5 Part-time,1.50E+08,-2.40E+08,78.1668,0.227,5,"1, 2, 3, 4",6 Bonus,1.00E+08,NA,NA,NA,NA,NA,NA
+Team 5,1.00E+07,83.1562,0.2415,5 Part-time,1.50E+08,-2.40E+08,78.1668,0.227,5,"1, 2, 3, 4",6 Bonus,1.00E+08,NA,NA,NA,NA,NA,NA
+Mr Monty Carlo,6.25E+08,108.8992,0.3376,9 Training,8.00E+08,-4.25E+08,114.3442,0.3342,5,"21, 25, 10, 7",24 Pollutants,2.50E+08,NA,NA,NA,NA,NA,NA

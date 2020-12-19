@@ -1,0 +1,39 @@
+---
+title: "Fantasy Economics"
+author: "Government Economics Service"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+runtime: shiny
+---
+
+
+```{css, echo=FALSE, eval = TRUE}
+.main-content, .toc {
+    max-width: 100%;
+    padding: 2rem 4rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+}
+
+.inner {
+    position: relative;
+    width: 90%;
+    font-size: 1.1em;
+    margin: 0 auto;
+}
+```
+
+```{r, echo = FALSE}
+library(shiny)
+library(FantasyEconomics)
+
+shinyAppDir(
+  system.file("FantasyEconomics", package="FantasyEconomics"),
+  options = list(width = "100%", height = 600)
+)
+```
+
+
+

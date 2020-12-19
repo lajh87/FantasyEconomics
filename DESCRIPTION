@@ -1,0 +1,40 @@
+Package: FantasyEconomics
+Title: What the Package Does (One Line, Title Case)
+Version: 0.5
+Authors@R: 
+    c(person(given = "Luke",
+           family = "Heley",
+           role = c("aut", "cre"),
+           email = "lajh87@me.com"),
+           person(given = "Miriam",
+           family = "Mahmoud",
+           role = c("aut"),
+           email = ""),
+           person(given = "Richard",
+           family = "Mosley",
+           role = c("aut"),
+           email = ""),
+           person(given = "Louisa",
+           family = "Tolu",
+           role = c("aut"),
+           email = ""),
+           person(given = "Giles",
+           family = "Doy",
+           role = c("aut"),
+           email = ""))
+Description: What the package does (one paragraph).
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: shiny,
+  plotly,
+  dplyr,
+  tidyr,
+  stringr,
+  rhandsontable, 
+  DT,
+  shinyWidgets
+Suggests:
+  rmarkdown,
+  prettydoc

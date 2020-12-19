@@ -1,0 +1,12 @@
+name: FantasyEconomics
+title: FantasyEconomics
+username:
+account: lukeheley
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3417993
+bundleId: 4008891
+url: https://lukeheley.shinyapps.io/FantasyEconomics/
+when: 1608375469.37205
+asMultiple: FALSE
+asStatic: FALSE
